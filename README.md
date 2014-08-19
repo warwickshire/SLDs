@@ -50,7 +50,7 @@ Suitable for viewing for scales from 1:250 to 1:5000.
 
 OS_MasterMap_Traditional_Style
 ------------------------------
-A imeplementation of the traditional style of MasterMap.
+A implementation of the traditional style of MasterMap.
 
 * MasterMap 						{1:1 to 1:5,100}
 
@@ -94,6 +94,7 @@ Contact
 
 To contact the Corporate GIS team about these styles, email:
 gis@warwickshire.gov.uk
+Note that WCC don't offer any form of support for these.
 
 More information about WCC's public Corporate GIS services can be found here:
 http://www.warwickshire.gov.uk/gis
